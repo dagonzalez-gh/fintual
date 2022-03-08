@@ -30,7 +30,7 @@ class Portfolio:
 ```
 
 ### profit
-El método `profit`, es el que contiene la lógica principal. Este recibe dos parámetros: `init_date` (fecha de inicio) y `end_date` (fecha de fin), ambas de tipo `string` y en formato `%Y-%m%d`.
+El método `profit`, es el que contiene la lógica principal. Este recibe dos parámetros: `init_date` (fecha de inicio) y `end_date` (fecha de fin), ambas de tipo `string` y en formato `%Y-%m-%d`.
 
 ```python
 class Portfolio:
